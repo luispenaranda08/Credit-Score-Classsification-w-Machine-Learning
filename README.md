@@ -18,8 +18,12 @@ Implementar y comparar múltiples algoritmos de clasificación
 ## 📚 Recursos Adicionales
 
 ### Guía de Git
-¿Necesitas ayuda con Git desde VS Code? Consulta nuestra [Guía de Git: Push y Pull desde la Terminal de VS Code](./GIT_TUTORIAL.md) que incluye:
-- Comandos básicos de push y pull
-- Flujo de trabajo recomendado
-- Solución de problemas comunes
-- Mejores prácticas
+¿Necesitas ayuda con Git desde VS Code? Tenemos dos recursos:
+
+1. **[Guía Completa de Git](./GIT_TUTORIAL.md)** - Tutorial detallado que incluye:
+   - Comandos básicos de push y pull
+   - Flujo de trabajo recomendado
+   - Solución de problemas comunes
+   - Mejores prácticas
+
+2. **[Referencia Rápida de Git](./GIT_QUICK_REFERENCE.md)** - Comandos esenciales para consulta rápida
