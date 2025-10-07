@@ -14,3 +14,12 @@ Implementar y comparar múltiples algoritmos de clasificación
 - Realizar validación avanzada e interpretabilidad
 
 - Seleccionar el mejor modelo para producción
+
+## 📚 Recursos Adicionales
+
+### Guía de Git
+¿Necesitas ayuda con Git desde VS Code? Consulta nuestra [Guía de Git: Push y Pull desde la Terminal de VS Code](./GIT_TUTORIAL.md) que incluye:
+- Comandos básicos de push y pull
+- Flujo de trabajo recomendado
+- Solución de problemas comunes
+- Mejores prácticas
