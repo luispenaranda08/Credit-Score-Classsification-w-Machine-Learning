@@ -1,4 +1,4 @@
-# PROYECTO FINAL. CREDIT SCORE CLASSIFICATION
+# 1. PROYECTO FINAL. CREDIT SCORE CLASSIFICATION
 
 **Desarrollado por:**  
 Johan Díaz  
@@ -78,6 +78,11 @@ En esta sección brindaremos un diccionario de las variables con las que contamo
 - Credit_Score: Variable objetivo, clasificación de la puntuación crediticia.
 
 
-### 1.3 Objetivo
+### Objetivo
 
 El objetivo de este proyecto es la implementación de distintos modelos clásicos de Machine Learning con el fin de encontrar el que mejores clasificaciones de puntuación crediticia entregue para ofrecerlo a la empresa.
+
+### Tabla de contenido
+
+```{tableofcontents}
+```
