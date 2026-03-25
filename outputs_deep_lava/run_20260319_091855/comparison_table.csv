@@ -1,0 +1,4 @@
+Model,F1_macro_TEST,Source,Delta_vs_LAVA
+XGBoost + LAVA (tuned),0.783217,Lava_upgrade.ipynb,-0.017258999999999913
+"Stacking + LAVA (argmax, alpha)",0.800476,Lava_upgrade.ipynb,0.0
+Stacking + Deep LAVA (n_latent=2),0.7977699719166494,deep_lava_stacking.ipynb,-0.00270602808335052

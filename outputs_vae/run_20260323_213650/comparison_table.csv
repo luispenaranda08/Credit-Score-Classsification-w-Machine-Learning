@@ -1,0 +1,5 @@
+Modelo,F1_macro_TEST,OOF_time_min,Features_latentes,Std→Poor_TEST,Interpretación
+XGBoost + LAVA (PCA),0.7832,—,2,—,Baseline. Un solo árbol + LAVA lineal.
+Stacking + LAVA (PCA),0.8005,2.5,2,2115,Mejor F1. PCA óptimo para correlaciones lineales (datos sintéticos).
+Stacking + Deep LAVA (AE),0.7978,17.3,4,—,Experimental. Autoencoder estándar. Tiempo inaceptable.
+"Stacking + Deep LAVA (VAE, β=0.5)",0.7967,3.67,4,2147,Propuesta DL. VAE entrenado 1x. Tiempo competitivo.
